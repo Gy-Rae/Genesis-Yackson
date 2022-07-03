@@ -1,2 +1,2 @@
 # Genesis-Yackson
-The world is full of stars, I think I it has discovered another one.
+The world is full of stars, I think it's has discovered another one.
